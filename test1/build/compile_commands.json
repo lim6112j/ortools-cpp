@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/codeguru/workspace/CnCPP/ortools/test1/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/usr/local/include -I/Users/codeguru/workspace/CnCPP/ortools/test1/../../../or-tools_MacOsX-12.2.1_v9.3.10497/include  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/Tutorial.dir/main.cpp.o -c /Users/codeguru/workspace/CnCPP/ortools/test1/main.cpp",
+  "file": "/Users/codeguru/workspace/CnCPP/ortools/test1/main.cpp"
+}
+]
